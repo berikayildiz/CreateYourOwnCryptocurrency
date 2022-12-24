@@ -3,7 +3,9 @@ Create your own cryptocurrency with Solidity
 In this step-by-step tutorial, you will learn how to create and deploy an "ERC-20".
 Token in Ethereum.
 
-Here we will use Metamask and Remix IDE
+Here we will use Metamask and Remix IDE.
+
+
 
 **PREREQUISITIES**
 
@@ -16,6 +18,8 @@ Then get some Goerli testnet ether from any of the faucets found below.
 https://faucets.chain.link/
 
 https://faucet.paradigm.xyz/
+
+
 
 **WRITING THE CODE**
 
