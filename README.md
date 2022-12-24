@@ -7,7 +7,7 @@ Here we will use Metamask and Remix IDE.
 
 
 
-**PREREQUISITIES**
+***PREREQUISITIES***
 
 Make sure you have downloaded Metamask in your web browser.
 
