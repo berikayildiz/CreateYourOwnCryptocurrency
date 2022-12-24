@@ -1,4 +1,4 @@
-Create your own cryptocurrency with Solidity
+**Create your own cryptocurrency with Solidity**
 
 In this step-by-step tutorial, you will learn how to create and deploy an "ERC-20".
 Token in Ethereum.
